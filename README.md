@@ -1,2 +1,2 @@
-# Indian Wedding-
-This is a vey basic java code
+# Indian Wedding Accounts-
+This is an average java code.
